@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  margin: 50px;
+  color: red;
+  font-family: Tangerine;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+  font-family: Tangerine;
+}
+
+p {
+  text-align: center;
+  color: red;
+  margin: 50px 50px 50px 50px;
+  font-family: Inconsolata;
+}
+
+body {
+  background-image: url('https://www.leisurepro.com/blog/wp-content/uploads/2018/09/shutterstock_117660574-1366x800@2x.jpg');
+  background-repeat: no-repeat;
+}
+
+img {
+  float: left;
+}
+
